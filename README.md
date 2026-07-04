@@ -1,2 +1,2 @@
-Day 1  
+Training Day 1  
 HTML
